@@ -12,7 +12,7 @@ const About = () => {
             <h2 className='p-2  mx-5 text-gray-600 font-semibold text-lg'>I'm Vincent San Pedro, a recent graduate from Nueva Ecija University of Science and Technology with a passion for web development.</h2>
             <h2 className='p-2 mx-5 text-gray-600 font-semibold text-lg'>I recently earned my degree, and my journey now takes me into the exciting world of web development.<br/> I am enthusiastic about crafting dynamic and user-friendly web experiences that leave a positive impact.</h2>
             <div className='m-6'>
-              <h1 className='text-2xl font-bold border border-b-2 border-gray-300
+              <h1 className='text-2xl text-center lg:text-left font-bold border border-b-2 border-gray-300
               border-t-0 border-x-0'><ion-icon name="school"></ion-icon> ACADEMIC
               <span className='text-yellow-400'> BACKGROUND</span></h1>
               <h2 className='text-xl font-semibold mt-2 ml-5 text-sky-700'>College</h2>
