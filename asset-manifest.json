@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vinz-portfolio/static/css/main.edccadd8.css",
-    "main.js": "/vinz-portfolio/static/js/main.fa632cde.js",
+    "main.css": "/vinz-portfolio/static/css/main.c2bc3b3f.css",
+    "main.js": "/vinz-portfolio/static/js/main.78d41c41.js",
     "static/js/453.2af7653b.chunk.js": "/vinz-portfolio/static/js/453.2af7653b.chunk.js",
     "static/media/dark-background.jpg": "/vinz-portfolio/static/media/dark-background.d3d664114a599e2d54fd.jpg",
     "static/media/e-commerce.png": "/vinz-portfolio/static/media/e-commerce.66a70126fcf5ff4e81c8.png",
@@ -15,12 +15,12 @@
     "static/media/contactus.jpg": "/vinz-portfolio/static/media/contactus.46d7603077411725edce.jpg",
     "static/media/age-calculator.png": "/vinz-portfolio/static/media/age-calculator.2f21880253c1722cd8a3.png",
     "index.html": "/vinz-portfolio/index.html",
-    "main.edccadd8.css.map": "/vinz-portfolio/static/css/main.edccadd8.css.map",
-    "main.fa632cde.js.map": "/vinz-portfolio/static/js/main.fa632cde.js.map",
+    "main.c2bc3b3f.css.map": "/vinz-portfolio/static/css/main.c2bc3b3f.css.map",
+    "main.78d41c41.js.map": "/vinz-portfolio/static/js/main.78d41c41.js.map",
     "453.2af7653b.chunk.js.map": "/vinz-portfolio/static/js/453.2af7653b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.edccadd8.css",
-    "static/js/main.fa632cde.js"
+    "static/css/main.c2bc3b3f.css",
+    "static/js/main.78d41c41.js"
   ]
 }
