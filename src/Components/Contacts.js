@@ -52,8 +52,8 @@ const Contacts = () => {
   };
 
   return (
-    <div id="contact" className='pb-10 h-[auto] bg-slate-200 bg-no-repeat bg-cover'>
-        <h1 className='text-center lg:text-left lg:ml-16 text-3xl font-bold text-slate-200 pt-10'>
+    <div id="contact" className='pb-10 h-[115vh] bg-slate-200 bg-no-repeat bg-cover'>
+        <h1 className='text-center lg:text-left lg:ml-16 text-3xl font-bold text-slate-200 '>
         <ion-icon name="mail-outline"></ion-icon>CONTACT<span className='text-yellow-300'> US</span></h1>
         
         <Socials />

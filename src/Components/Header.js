@@ -55,7 +55,7 @@ const Header = () => {
                 cursor-pointer'>ABOUT</Link></li>
 
               
-                <li className='nav-item'><Link to="contact" spy={true} smooth={true} offset={-40}
+                <li className='nav-item'><Link to="contact" spy={true} smooth={true} offset={-30}
                 duration={500} className='hover:text-yellow-300 hover:text-lg hover:underline
                 transition ease-in-out delay-100 hover:-translate-y-1 hover:scale-110 duration-300
                 cursor-pointer'>CONTACT</Link></li>
