@@ -77,7 +77,7 @@ const Projects = () => {
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
              <h1 className=' text-lg text-gray-600 font-semibold'>Responsive News Letter</h1>
-             <a href="https://social-media-dashboard-aqk4.onrender.com/" target="_blank"
+             <a href="https://kamnida1992.github.io/news-letter-main/" target="_blank"
             className='bg-slate-900 text-white px-2 rounded-md w-[130px] py-2
             hover:bg-slate-700'>View live demo</a>
             <div className='flex gap-2 font-semibold'>
