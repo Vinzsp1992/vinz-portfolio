@@ -52,7 +52,11 @@ const Contacts = () => {
   };
 
   return (
+<<<<<<< HEAD
     <div id="contact" className='pb-10 lg:h-[110vh] h-[100vh] bg-slate-200 bg-no-repeat bg-cover pt-10'>
+=======
+    <div id="contact" className='pb-10 lg:h-[115vh] h-[105vh] bg-slate-200 bg-no-repeat bg-cover pt-12'>
+>>>>>>> bb51b07c054a3d72edb75d4f8688608c4a883a84
         <h1 className='text-center lg:text-left lg:ml-16 text-3xl font-bold text-slate-200 '>
         <ion-icon name="mail-outline"></ion-icon>CONTACT<span className='text-yellow-300'> US</span></h1>
         
