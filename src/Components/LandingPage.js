@@ -5,7 +5,7 @@ import ProfilePic from '../assets/profilepic.jpg';
 const LandingPage = () => {
   return (
     <div id="homepage" className=" bg-no-repeat bg-cover
-     flex justify-evenly lg:flex">
+     flex justify-evenly lg:flex backdrop-blur-sm">
         <main className='mt-16 mx-5 w-[100%] lg:w-max'>
           <div className='w-[100%] flex justify-center lg:justify-center px-2 '>
             <h1 className=' text-xl font-bold lg:text-5xl mt-10 text-slate-200 text-center block
@@ -19,7 +19,8 @@ const LandingPage = () => {
                 <img src={ProfilePic} className='w-[100%] h-[300px] rounded-3xl
                 shadow-2xl pb-2 lg:w-full lg:h-[480px] md:w-[auto] px-5'/>
                 </div>
-            <div className='bg-slate-200 bg-opacity-10 rounded-xl p-2 h-[100%] lg:h-[500px] shadow-xl lg:w-[500px] lg:p-5'>
+            <div className='bg-slate-200 bg-opacity-10 rounded-xl p-2 h-[100%] lg:h-[500px] shadow-xl
+            pb-10 lg:w-[500px] lg:p-5'>
                 <h1 className='text-white font-semibold text-2xl mt-5 mx-5'>Hello, I'am </h1>
                 <h1 className='text-slate-200 text-4xl mb-4 mx-5 font-bold'>Vincent San Pedro</h1>
                 <div className='mx-5'>

@@ -1,5 +1,6 @@
 import React from 'react'
 import AgeCalculator from '../assets/age-calculator.png';
+import MultiStep from '../assets/multi-step.png';
 import Ecommerce from '../assets/e-commerce.png';
 import Dashboard from '../assets/dashboard.png';
 import NewsLetter from '../assets/news-letter.png';
@@ -26,7 +27,7 @@ const Projects = () => {
             hover:bg-slate-700'>View live demo</a>
             
             <div className='flex gap-2 font-semibold'>
-            <h1 className='text-blue-900'>REACT</h1>
+            <h1 className='text-blue-400'>REACT</h1>
             <h1 className="text-blue-500">TAILWIND</h1>
             
             </div>
@@ -55,16 +56,16 @@ const Projects = () => {
         shadow-xl'>
         
             
-            <img src={Dashboard} className='w-[290px] h-[200px] 
+            <img src={MultiStep} className='w-[290px] h-[200px] 
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
-             <h1 className=' text-lg text-gray-600 font-semibold'> Social Media Dashboard with theme</h1>
-            <a href="https://social-media-dashboard-aqk4.onrender.com/" target="_blank"
+             <h1 className=' text-lg text-gray-600 font-semibold'> Multi Step Form</h1>
+            <a href="https://kamnida1992.github.io/multi-step-form/#/" target="_blank"
             className='bg-slate-900 text-white px-2 rounded-md w-[130px] py-2 
             hover:bg-slate-700'>View live demo</a>
             <div className='flex gap-2 font-semibold'>
-            <h1 className='text-red-400'>HTML</h1>
-            <h1 className='text-blue-900'>JAVASCRIPT</h1>
+            <h1 className='text-sky-400'>REACT</h1>
+            <h1 className='text-blue-900'>TYPESCRIPT</h1>
             <h1 className="text-blue-500">TAILWIND</h1>
             
             </div>
@@ -77,7 +78,7 @@ const Projects = () => {
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
              <h1 className=' text-lg text-gray-600 font-semibold'>Responsive News Letter</h1>
-             <a href="https://social-media-dashboard-aqk4.onrender.com/" target="_blank"
+             <a href="https://kamnida1992.github.io/news-letter-main/" target="_blank"
             className='bg-slate-900 text-white px-2 rounded-md w-[130px] py-2
             hover:bg-slate-700'>View live demo</a>
             <div className='flex gap-2 font-semibold'>
@@ -100,7 +101,7 @@ const Projects = () => {
             className='bg-slate-900 text-white px-2 rounded-md w-[130px] py-2
             hover:bg-slate-700'>View live demo</a>
             <div className='flex gap-2 font-semibold'>
-            <h1 className='text-blue-900'>REACT</h1>
+            <h1 className='text-blue-400'>REACT</h1>
             <h1 className="text-blue-500">TAILWIND</h1>
             
             </div>
