@@ -33,12 +33,12 @@ const Header = () => {
             </div>
 
             <ul className={`nav-menu active bg-slate-950
-             lg:bg-${color ? "slate-950" : "none"} bg-opacity-90 lg:bg-opacity-0 w-[100%] md:w-auto
+             lg:bg-${color ? "slate-950" : "none"}  lg:bg-opacity-0 w-[100%] md:w-auto
             text-white leading-10 text-center p-5 font-semibold
             absolute mt-20 md:flex md:flex-row md:items-center
              md:text-white md:static lg:h-full md:h-full md:mt-0
             md:gap-10 lg:gap-10 lg:flex -ml-5 transition-all duration-300 ease-in
-             ${open ? 'top-[-10px]' : 'top-[-520px]'} text-sm  cursor-pointer  `}>
+             ${open ? 'top-[-12px]' : 'top-[-500px]'} text-sm  cursor-pointer  `}>
                 <li className='nav-item'><Link to='homepage' spy={true} smooth={true} offset={-100}
                 duration={500} className='hover:text-yellow-300 hover:text-lg hover:underline
                  transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300

@@ -52,7 +52,7 @@ const Contacts = () => {
   };
 
   return (
-    <div id="contact" className='pb-10 lg:h-[110vh] h-[100vh] bg-slate-200 bg-no-repeat bg-cover pt-10'>
+    <div id="contact" className='pb-10 lg:h-[110vh] h-[100%] bg-slate-200 bg-no-repeat bg-cover pt-10'>
         <h1 className='text-center lg:text-left lg:ml-16 text-3xl font-bold text-slate-200 '>
         <ion-icon name="mail-outline"></ion-icon>CONTACT<span className='text-yellow-300'> US</span></h1>
         
@@ -60,11 +60,11 @@ const Contacts = () => {
         <h1 className='lg:ml-16 text-slate-200 font-semibold text-2xl text-center
         lg:text-left '>Get in touch via email</h1>
         
-        <div className='bg-slate-200 bg-opacity-10 m-5 p-5 pb-10 flex justify-evenly 
+        <div className='bg-slate-200 bg-opacity-10 m-5 p-5 pb-10 flex justify-evenly
         gap-2 rounded-md'>
             
         <form ref={form} onSubmit={submitForm}>
-            <div className='flex flex-col w-[80vw] lg:w-[40vw]'>
+            <div className='flex flex-col w-[80vw] lg:w-[30vw]'>
                 <div className='flex flex-col mb-2'>
                     <label className={`font-semibold text-slate-200 italic`}>Your Name</label>
                     <input type="text" name="user_name" onChange={handleName}
@@ -89,11 +89,9 @@ const Contacts = () => {
              type="submit" value="Send" />
 
             </div>
-        </form>  
+        </form> 
+          <img src={Contactus}  className='hidden lg:block rounded-lg w-[50%]'/>
         
-        <div className='lg:block hidden shadow-xl'>
-            <img src={Contactus} className='rounded-lg'/>
-        </div>
     </div>
     </div>
   )
