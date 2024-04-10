@@ -8,17 +8,23 @@ import Ebank from '../assets/ebank.png';
 import News from '../assets/news.png';
 const Projects = () => {
   return (
-    <div id="projects" className='bg-slate-100  '>
+    <div id="projects" className='bg-slate-100 w-[auto] '>
         
-        <h1 className='lg:text-left text-center text-gray-700  border border-b-2
+        <h1 data-aos="fade-right" className='lg:text-left text-center text-gray-700  border border-b-2
         border-x-0 border-gray-300 mx-5 text-3xl font-bold pt-10 pb-2'>
             <ion-icon name="book-outline" size="large"></ion-icon> PROJECT<span className='text-3xl
             text-yellow-400'>S</span></h1>
 
        <div className=' pb-20 pt-10 lg:flex lg:flex-row lg:flex-wrap lg:items-center lg:justify-center gap-5 space-y-2 mx-7 '>
         
-        <div className='p-2 flex justify-center flex-wrap flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
-        shadow-xl '>
+        <div data-aos="fade-left" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
+        shadow-xl div h-[auto] w-[auto] m-auto  relative group z-0 overflow-hidden' >
+
+            <div 
+            className="z-[-2] h-full w-[200%] rounded-[1em] bg-gradient-to-br from-red-600 via-yellow-200
+            to-sky-200 absolute bottom-full right-0 group-hover:-rotate-90 group-hover:h-[300%] duration-500 origin-bottom-right"
+            ></div>
+        
             
             <img src={AgeCalculator} className='w-[290px] h-[200px] transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-105 rounded-xl  duration-300' />
             <h1 className=' text-lg text-gray-600 font-semibold'>Responsive Age Calculator</h1>
@@ -33,9 +39,14 @@ const Projects = () => {
             </div>
         </div>
 
-        <div className='p-2 flex justify-center  flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
-        shadow-xl'>
-       
+        <div data-aos="fade-right" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
+        shadow-xl div h-[auto] w-[auto] m-auto  relative group z-0 overflow-hidden'>
+            
+            <div
+            className="z-[-2] h-full w-[200%] rounded-[1em] bg-gradient-to-br from-red-600 via-yellow-200
+            to-sky-200 absolute bottom-full right-0 group-hover:-rotate-90 group-hover:h-[300%] duration-500 origin-bottom-right"
+            ></div>
+        
            
             <img src={Ecommerce} className='w-[300px] h-[200px] 
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
@@ -52,8 +63,13 @@ const Projects = () => {
             </div>
         </div>
 
-        <div className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
-        shadow-xl'>
+        <div data-aos="fade-left" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
+        shadow-xl div h-[auto] w-[auto] m-auto  relative group z-0 overflow-hidden '>
+
+            <div
+            className="z-[-2] h-full w-[200%] rounded-[1em] bg-gradient-to-br from-red-600 via-yellow-200
+            to-sky-200 absolute bottom-full right-0 group-hover:-rotate-90 group-hover:h-[300%] duration-500 origin-bottom-right"
+            ></div>
         
             
             <img src={MultiStep} className='w-[290px] h-[200px] 
@@ -71,8 +87,13 @@ const Projects = () => {
             </div>
         </div>
 
-        <div className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
-        shadow-xl'>
+        <div data-aos="fade-right" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
+        shadow-xl div h-[auto] w-[auto] m-auto  relative group z-0 overflow-hidden'>
+
+            <div
+            className="z-[-2] h-full w-[200%] rounded-[1em] bg-gradient-to-br from-red-600 via-yellow-200
+            to-sky-200 absolute bottom-full right-0 group-hover:-rotate-90 group-hover:h-[300%] duration-500 origin-bottom-right"
+            ></div>
         
             <img src={NewsLetter} className='w-[300px] h-[200px] 
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
@@ -89,10 +110,15 @@ const Projects = () => {
             </div>
         </div>
 
-        <div className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0
-        shadow-xl'>
+        <div data-aos="fade-left" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
+        shadow-xl div h-[auto] w-[auto] m-auto  relative group z-0 overflow-hidden'>
         
-            
+            <div
+            className="z-[-2] h-full w-[200%] rounded-[1em] bg-gradient-to-br from-red-600 via-yellow-200
+            to-sky-200 absolute bottom-full right-0 group-hover:-rotate-90 group-hover:h-[300%] duration-500 origin-bottom-right"
+            ></div>
+
+
             <img src={Ebank} className='w-[300px] h-[200px] 
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
@@ -106,9 +132,14 @@ const Projects = () => {
             
             </div>
         </div>
-        <div className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5
-        shadow-xl lg:mx-0'>
+        <div data-aos="fade-right" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
+        shadow-xl div h-[auto] w-[auto] m-auto  relative group z-0 overflow-hidden'>
         
+
+            <div
+            className="z-[-2] h-full w-[200%] rounded-[1em] bg-gradient-to-br from-red-600 via-yellow-200
+            to-sky-200 absolute bottom-full right-0 group-hover:-rotate-90 group-hover:h-[300%] duration-500 origin-bottom-right"
+            ></div>
             
             <img src={News} className='w-[300px] h-[200px] 
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1

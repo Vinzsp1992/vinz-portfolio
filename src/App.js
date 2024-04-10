@@ -10,12 +10,14 @@ import Footer from './Components/Footer.js';
 const App = () => {
   return (
     <div className='bg-slate-400'>
+     
     <Header />
     <LandingPage />
     <Projects />
     <About />
     <Contacts />
     <Footer />
+    
     </div>  )
 }
 

@@ -53,7 +53,7 @@ const Contacts = () => {
 
   return (
     <div id="contact" className='pb-10 lg:h-[110vh] h-[100%] bg-slate-200 bg-no-repeat bg-cover pt-10'>
-        <h1 className='text-center lg:text-left lg:ml-16 text-3xl font-bold text-slate-200 '>
+        <h1 data-aos="fade-down" className='text-center lg:text-left lg:ml-16 text-3xl font-bold text-slate-200 '>
         <ion-icon name="mail-outline"></ion-icon>CONTACT<span className='text-yellow-300'> US</span></h1>
         
         <Socials />
@@ -63,7 +63,7 @@ const Contacts = () => {
         <div className='bg-slate-200 bg-opacity-10 m-5 p-5 pb-10 flex justify-evenly
         gap-2 rounded-md'>
             
-        <form ref={form} onSubmit={submitForm}>
+        <form data-aos="flip-left" ref={form} onSubmit={submitForm}>
             <div className='flex flex-col w-[80vw] lg:w-[30vw]'>
                 <div className='flex flex-col mb-2'>
                     <label className={`font-semibold text-slate-200 italic`}>Your Name</label>

@@ -13,14 +13,14 @@ const Skills = () => {
 
         <div className='p-5 pt-1 space-x-5 bg-slate-50    rounded-lg  mb-2 h-auto w-auto'>
             
-        <h1 className='text-3xl font-mono font-bold p-2 pt-10 text-center lg:text-left
+        <h1 data-aos="fade-right" className='text-3xl font-mono font-bold p-2 pt-10 text-center lg:text-left
         border border-b-2 border-gray-300 border-t-0 border-x-0'> <ion-icon name="hammer-outline" size="large">
             </ion-icon>SKILLS & <span className='text-3xl text-yellow-400 '> TOOLS 
         </span></h1>
             <div className='mt-10 text-center flex flex-wrap justify-evenly
             gap-3 space-x-5 lg:flex lg:justify-center lg:gap-6'>
 
-            <div className='flex flex-col justify-center pt-2
+            <div data-aos="flip-left" className='flex flex-col justify-center pt-2
             hover:-translate-y-1 hover:scale-105  duration-200
             transition ease-in-out delay-150 cursor-pointer bg-slate-100 rounded-lg
             px-4  shadow-lg'>
@@ -31,7 +31,7 @@ const Skills = () => {
             <span className='text-sm font-semibold text-red-500'>HTML5</span>
             </div>
 
-            <div className='flex flex-col justify-center pt-2
+            <div data-aos="flip-left" className='flex flex-col justify-center pt-2
             hover:-translate-y-1 hover:scale-105  duration-200
             transition ease-in-out delay-150 cursor-pointer bg-slate-100 rounded-lg
             px-6  shadow-lg'>
@@ -42,7 +42,7 @@ const Skills = () => {
             <span className='text-sm font-semibold text-blue-500'>CSS3</span>
             </div>
 
-            <div className='flex flex-col justify-center pt-2
+            <div data-aos="flip-left" className='flex flex-col justify-center pt-2
             hover:-translate-y-1 hover:scale-105  duration-200
             transition ease-in-out delay-150 cursor-pointer bg-slate-100 rounded-lg
             px-4  shadow-lg'>
@@ -53,7 +53,7 @@ const Skills = () => {
             <span className='text-xs font-semibold text-yellow-300'>JAVASCRIPT</span>
             </div>
 
-            <div className='flex flex-col justify-center pt-2
+            <div data-aos="flip-left" className='flex flex-col justify-center pt-2
             hover:-translate-y-1 hover:scale-105  duration-200
             transition ease-in-out delay-150 cursor-pointer bg-slate-100 rounded-lg
             px-6  shadow-lg'>
@@ -66,11 +66,11 @@ const Skills = () => {
 
             </div>
 
-            <div className='mt-10 text-center flex flex-wrap justify-center
+            <div data-aos="flip-left" className='mt-10 text-center flex flex-wrap justify-center
             gap-3 space-x-5 lg:flex lg:justify-center lg:gap-6'>
                 
 
-            <div className='flex flex-col justify-center pt-2
+            <div data-aos="flip-left" className='flex flex-col justify-center pt-2
             hover:-translate-y-1 hover:scale-105  duration-200
             transition ease-in-out delay-150 cursor-pointer bg-slate-100 rounded-lg
             px-6  shadow-lg'>
@@ -81,7 +81,7 @@ const Skills = () => {
             <span className='text-sm font-semibold text-sky-500'>REACT</span>
             </div>
 
-            <div className='flex flex-col justify-center pt-2
+            <div data-aos="flip-left" className='flex flex-col justify-center pt-2
             hover:-translate-y-1 hover:scale-105  duration-200
             transition ease-in-out delay-150 cursor-pointer bg-slate-100 rounded-lg
             px-4  shadow-lg'>
@@ -90,7 +90,7 @@ const Skills = () => {
             </div>
                     
                    
-            <div className='flex flex-col justify-center pt-2
+            <div data-aos="flip-left" className='flex flex-col justify-center pt-2
             hover:-translate-y-1 hover:scale-105  duration-200
             transition ease-in-out delay-150 cursor-pointer bg-slate-100 rounded-lg
             px-4  shadow-lg'>
@@ -98,7 +98,7 @@ const Skills = () => {
             <span className='text-sm font-semibold text-sky-400 mt-1'>PHP</span>
             </div>
 
-            <div className='flex flex-col justify-center pt-2
+            <div data-aos="flip-left" className='flex flex-col justify-center pt-2
             hover:-translate-y-1 hover:scale-105  duration-200
             transition ease-in-out delay-150 cursor-pointer bg-slate-100 rounded-lg
             px-6  shadow-lg'>
@@ -109,7 +109,7 @@ const Skills = () => {
             <span className='text-sm font-semibold text-green-400'>NODE</span>
             </div>
 
-            <div className='flex flex-col justify-center pt-2
+            <div data-aos="flip-left" className='flex flex-col justify-center pt-2
             hover:-translate-y-1 hover:scale-105  duration-200
             transition ease-in-out delay-150 cursor-pointer bg-slate-100 rounded-lg
             px-6  shadow-lg'>
