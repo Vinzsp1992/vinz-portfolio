@@ -9,7 +9,7 @@ import Footer from './Components/Footer.js';
 
 const App = () => {
   return (
-    <div className='bg-slate-400'>
+    <div className='bg-slate-400 w-[100vw]'>
      
     <Header />
     <LandingPage />

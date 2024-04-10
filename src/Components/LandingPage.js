@@ -19,7 +19,7 @@ const LandingPage = () => {
             <div className=' lg:flex block lg:justify-center lg:gap-5 lg:w-full lg:h-full mt-10 mb-10 mx-1'>
                 <div className='bg-slate-200  bg-opacity-10 rounded-tr-full rounded-tl-full
                 rounded-br-full rounded-bl-full w-[auto] p-2 lg:h-[500px] h-[100%] mb-5 rounded-xl'>
-                <img src={ProfilePic} className='w-[auto] h-[300px] rounded-full
+                <img src={ProfilePic} className='w-[100%] h-[300px] rounded-full
                  shadow-xl pb-2 lg:w-full lg:h-[480px] md:w-[auto] px-5'/>
                 </div>
             <div className='bg-slate-200 bg-opacity-10 rounded-br-full rounded-tl-full

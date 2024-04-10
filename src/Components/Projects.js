@@ -8,16 +8,16 @@ import Ebank from '../assets/ebank.png';
 import News from '../assets/news.png';
 const Projects = () => {
   return (
-    <div id="projects" className='bg-slate-100 w-[auto] '>
+    <div id="projects" className='bg-slate-100 w-[100vw]'>
         
-        <h1 data-aos="fade-right" className='lg:text-left text-center text-gray-700  border border-b-2
+        <h1 data-aos="flip-right" className='lg:text-left text-center text-gray-700  border border-b-2
         border-x-0 border-gray-300 mx-5 text-3xl font-bold pt-10 pb-2'>
             <ion-icon name="book-outline" size="large"></ion-icon> PROJECT<span className='text-3xl
             text-yellow-400'>S</span></h1>
 
        <div className=' pb-20 pt-10 lg:flex lg:flex-row lg:flex-wrap lg:items-center lg:justify-center gap-5 space-y-2 mx-7 '>
         
-        <div data-aos="fade-left" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
+        <div data-aos="flip-right" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
         shadow-xl div h-[auto] w-[auto] m-auto  relative group z-0 overflow-hidden' >
 
             <div 
@@ -39,7 +39,7 @@ const Projects = () => {
             </div>
         </div>
 
-        <div data-aos="fade-right" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
+        <div data-aos="flip-right" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
         shadow-xl div h-[auto] w-[auto] m-auto  relative group z-0 overflow-hidden'>
             
             <div
@@ -63,7 +63,7 @@ const Projects = () => {
             </div>
         </div>
 
-        <div data-aos="fade-left" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
+        <div data-aos="flip-right" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
         shadow-xl div h-[auto] w-[auto] m-auto  relative group z-0 overflow-hidden '>
 
             <div
@@ -87,7 +87,7 @@ const Projects = () => {
             </div>
         </div>
 
-        <div data-aos="fade-right" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
+        <div data-aos="flip-right" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
         shadow-xl div h-[auto] w-[auto] m-auto  relative group z-0 overflow-hidden'>
 
             <div
@@ -110,7 +110,7 @@ const Projects = () => {
             </div>
         </div>
 
-        <div data-aos="fade-left" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
+        <div data-aos="flip-right" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
         shadow-xl div h-[auto] w-[auto] m-auto  relative group z-0 overflow-hidden'>
         
             <div
@@ -132,7 +132,7 @@ const Projects = () => {
             
             </div>
         </div>
-        <div data-aos="fade-right" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
+        <div data-aos="flip-right" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
         shadow-xl div h-[auto] w-[auto] m-auto  relative group z-0 overflow-hidden'>
         
 

@@ -1,10 +1,12 @@
 @tailwind base;
 @tailwind components;
-
-
 @tailwind utilities;
 
-
+body{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
 #homepage, #contact{
     
     background-image:linear-gradient(rgba(34, 33, 39, 0.76), rgba(44, 41, 46, 0.767)), url(../src/assets/dark-background.jpg);
