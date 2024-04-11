@@ -11,14 +11,14 @@ const LandingPage = () => {
         <main className='mt-16 mx-5 w-[100%] lg:w-100%'>
           <div className='w-[100%] flex justify-center lg:justify-center px-2'>
            
-              <h1 className='lg:text-4xl  text-2xl mt-5 text-white font-bold text-center'>Aspiring Web Developer</h1>
+              <h1 className='lg:text-4xl  text-2xl mt-5 text-white font-bold text-center'>IT | Web Developer</h1>
             </div>
             <h1 className='text-sm lg:text-lg mt-2 text-gray-300 text-center block'>
               Transforming dreams into immersive digital experiences</h1>
 
             <div className=' lg:flex block lg:justify-center lg:gap-5 lg:w-full lg:h-full mt-10 mb-10 mx-1'>
                 <div className='bg-slate-200  bg-opacity-10 rounded-tr-full rounded-tl-full
-                rounded-br-full rounded-bl-full w-[auto] p-2 lg:h-[500px] h-[100%] mb-5 rounded-xl'>
+                rounded-br-full rounded-bl-full w-[auto] p-2 lg:h-[500px] h-[100%] mb-5 rounded-xl '>
                 <img src={ProfilePic} className='w-[100%] h-[300px] rounded-full
                  shadow-xl pb-2 lg:w-full lg:h-[480px] md:w-[auto] px-5'/>
                 </div>
@@ -35,12 +35,13 @@ const LandingPage = () => {
                 I would love the opportunity to discuss how my skills and enthusiasm for web development align with your team's needs.
                 </h2>
                 <br/>
+                <div className='animate-pulse'>
                 <a href="VinceSP_CV.pdf" target="_blank"
                 className='p-1 mt-5 h-[45px] lg:h-[35px] md:h-[35px] text-center px-2 py-2 rounded-md text-white font-semibold
                hover:text-black hover:bg-yellow-200 transition ease-in-out delay-150
                 text-xs w-[100px]  bg-yellow-300' download>
                  DOWNLOAD CV</a>
-                
+                 </div>
                 </div>
             </div>
                 
