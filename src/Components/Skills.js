@@ -1,6 +1,7 @@
 import React from 'react'
 import Tailwind from '../assets/tailwind.png';
 import Php from '../assets/php.png';
+import RestApi from '../assets/rest-icon.png'
 
 const Skills = () => {
   return (
@@ -104,9 +105,9 @@ const Skills = () => {
             px-6  shadow-lg'>
            <a  className='text-green-400   hover:shadow-2xl
            rounded-xl   '>
-            <ion-icon name="logo-nodejs" size="large"></ion-icon>
+           <img src={RestApi} />
             </a>
-            <span className='text-sm font-semibold text-green-400'>NODE</span>
+            <span className='text-sm font-semibold text-red-400'>REST</span>
             </div>
 
             <div data-aos="flip-left" className='flex flex-col justify-center pt-2
