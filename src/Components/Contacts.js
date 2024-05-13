@@ -54,7 +54,7 @@ const Contacts = () => {
   return (
     <div id="contact" className='pb-10 lg:h-[110vh] h-[100%] bg-slate-200 bg-no-repeat bg-cover pt-10'>
         <h1 data-aos="fade-down" className='text-center lg:text-left lg:ml-16 text-3xl font-bold text-slate-200 '>
-        <ion-icon name="mail-outline"></ion-icon>CONTACT<span className='text-yellow-300'> US</span></h1>
+        <ion-icon name="mail-outline"></ion-icon>CONTACT<span className='text-sky-400'> US</span></h1>
         
         <Socials />
         <h1 className='lg:ml-16 text-slate-200 font-semibold text-2xl text-center
@@ -84,7 +84,7 @@ const Contacts = () => {
                     text-sm'>Message should not be blank.</p>}
             {success && <p className='text-sm font-semibold text-green-400'>Message sent 
             <ion-icon name="checkmark-outline"></ion-icon></p>}
-            <input className='bg-yellow-300 p-3 mt-2 hover:bg-yellow-200
+            <input className='bg-sky-500 p-3 mt-2 transition-all hover:bg-sky-400
             rounded-md text-slate-600 font-semibold cursor-pointer'
              type="submit" value="Send" />
 

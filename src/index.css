@@ -7,13 +7,16 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
+*{
+    font-family: "Raleway", sans-serif;
+}
 #homepage, #contact{
     background-image:linear-gradient(rgba(34, 33, 39, 0.76), rgba(44, 41, 46, 0.767)), url(../src/assets/dark-background.jpg);
 }
 
 .nav-item .active{
-    color: rgb(250 204 21 / var(--tw-text-opacity));
-    font-size: 1.5em;
+    color: hsl(197, 71%, 71%);
+    font-size: 1.2em;
    
 }
 .nav-item{

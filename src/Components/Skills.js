@@ -16,7 +16,7 @@ const Skills = () => {
             
         <h1 data-aos="fade-right" className='text-3xl font-mono font-bold p-2 pt-10 text-center lg:text-left
         border border-b-2 border-gray-300 border-t-0 border-x-0'> <ion-icon name="hammer-outline" size="large">
-            </ion-icon>SKILLS & <span className='text-3xl text-yellow-400 '> TOOLS 
+            </ion-icon>SKILLS & <span className='text-3xl text-sky-400 '> TOOLS 
         </span></h1>
             <div className='mt-10 text-center flex flex-wrap justify-evenly
             gap-3 space-x-5 lg:flex lg:justify-center lg:gap-6'>

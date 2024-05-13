@@ -12,7 +12,7 @@ const Projects = () => {
         <h1 data-aos="flip-right" className='lg:text-left text-center text-gray-700  border border-b-2
         border-x-0 border-gray-300 mx-5 text-3xl font-bold pt-10 pb-2'>
             <ion-icon name="book-outline" size="large"></ion-icon> PROJECT<span className='text-3xl
-            text-yellow-400'>S</span></h1>
+            text-sky-400'>S</span></h1>
 
        <div className=' pb-20 pt-10 lg:flex lg:flex-row lg:flex-wrap lg:items-center lg:justify-center gap-10
        gap-y-10 space-y-2 mx-7 '>
