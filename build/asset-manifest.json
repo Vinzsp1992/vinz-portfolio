@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/vinz-portfolio/static/css/main.f2db904a.css",
-    "main.js": "/vinz-portfolio/static/js/main.927af059.js",
+    "main.css": "/vinz-portfolio/static/css/main.3592eca2.css",
+    "main.js": "/vinz-portfolio/static/js/main.62af22d6.js",
     "static/js/453.2af7653b.chunk.js": "/vinz-portfolio/static/js/453.2af7653b.chunk.js",
     "static/media/dark-background.jpg": "/vinz-portfolio/static/media/dark-background.d3d664114a599e2d54fd.jpg",
     "static/media/IPAddress-Tracker.png": "/vinz-portfolio/static/media/IPAddress-Tracker.7e0bab29e304e85e93b2.png",
+    "static/media/profic_1.png": "/vinz-portfolio/static/media/profic_1.e26d0f33c7511474341d.png",
     "static/media/tailwind.png": "/vinz-portfolio/static/media/tailwind.f0f26047a8933b822dae.png",
-    "static/media/profilepic.jpg": "/vinz-portfolio/static/media/profilepic.bf15a62ac44d9ef6c19e.jpg",
     "static/media/ebank.png": "/vinz-portfolio/static/media/ebank.4ee35c4c86b397329d52.png",
     "static/media/news-letter.png": "/vinz-portfolio/static/media/news-letter.6b1d319c3b486132cbad.png",
     "static/media/Rest-Countries.png": "/vinz-portfolio/static/media/Rest-Countries.2489061963586b7c0085.png",
@@ -15,12 +15,12 @@
     "static/media/contactus.jpg": "/vinz-portfolio/static/media/contactus.46d7603077411725edce.jpg",
     "static/media/age-calculator.png": "/vinz-portfolio/static/media/age-calculator.2f21880253c1722cd8a3.png",
     "index.html": "/vinz-portfolio/index.html",
-    "main.f2db904a.css.map": "/vinz-portfolio/static/css/main.f2db904a.css.map",
-    "main.927af059.js.map": "/vinz-portfolio/static/js/main.927af059.js.map",
+    "main.3592eca2.css.map": "/vinz-portfolio/static/css/main.3592eca2.css.map",
+    "main.62af22d6.js.map": "/vinz-portfolio/static/js/main.62af22d6.js.map",
     "453.2af7653b.chunk.js.map": "/vinz-portfolio/static/js/453.2af7653b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2db904a.css",
-    "static/js/main.927af059.js"
+    "static/css/main.3592eca2.css",
+    "static/js/main.62af22d6.js"
   ]
 }

@@ -7,10 +7,10 @@ import Ebank from '../assets/ebank.png';
 import IPAddressTracker from '../assets/IPAddress-Tracker.png'
 const Projects = () => {
   return (
-    <div id="projects" className='bg-slate-100 w-[100vw]'>
+    <div id="projects" className='bg-gradient-to-r from-slate-950 to-sky-950 w-[100vw]'>
         
-        <h1 data-aos="flip-right" className='lg:text-left text-center text-gray-700  border border-b-2
-        border-x-0 border-gray-300 mx-5 text-3xl font-bold pt-10 pb-2'>
+        <h1 data-aos="flip-right" className='lg:text-left text-center text-gray-200
+        border-x-0 lg:mx-40 text-3xl font-bold pt-10 pb-2'>
             <ion-icon name="book-outline" size="large"></ion-icon> PROJECT<span className='text-3xl
             text-sky-400'>S</span></h1>
 

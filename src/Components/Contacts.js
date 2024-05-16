@@ -52,7 +52,8 @@ const Contacts = () => {
   };
 
   return (
-    <div id="contact" className='pb-10 lg:h-[110vh] h-[100%] bg-slate-200 bg-no-repeat bg-cover pt-10'>
+    <div id="contact" className='pb-10 lg:h-[110vh] h-[100%]
+    bg-gradient-to-r from-slate-950 to-sky-950 bg-no-repeat bg-cover pt-10'>
         <h1 data-aos="fade-down" className='text-center lg:text-left lg:ml-16 text-3xl font-bold text-slate-200 '>
         <ion-icon name="mail-outline"></ion-icon>CONTACT<span className='text-sky-400'> US</span></h1>
         

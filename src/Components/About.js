@@ -3,7 +3,7 @@ import Skills from './Skills.js';
 
 const About = () => {
   return (
-    <div id="about" className='h-auto  bg-slate-100 p-2 bg-opacity-90  text-wrap lg:flex
+    <div id="about" className='h-auto  bg-gradient-to-r from-slate-950 to-sky-950 p-2 bg-opacity-90  text-wrap lg:flex
     lg:justify-center'>
         <div data-aos="fade-right" className='bg-slate-50 text-gray-700 lg:w-[75%] m-2 rounded-md pt-2'>
             <h1 className='text-3xl font-bold py-3 pl-2 text-center lg:text-left
