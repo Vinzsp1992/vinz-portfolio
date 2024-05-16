@@ -36,13 +36,7 @@ const LandingPage = () => {
                 I would love the opportunity to discuss how my skills and enthusiasm for web development align with your team's needs.
                 </h2>
                 <br/>
-                <div className='animate-pulse'>
-                <a href="VinceSP_CV.pdf" target="_blank"
-                className='p-1 mt-5 h-[45px] lg:h-[35px] md:h-[35px] text-center px-2 py-2 rounded-md text-white font-semibold
-               hover:text-black hover:bg-sky-400 transition ease-in-out delay-150
-                text-xs w-[100px]  bg-sky-500' download>
-                 DOWNLOAD CV</a>
-                 </div>
+                
                 </div>
             </div>
                 
