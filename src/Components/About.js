@@ -24,7 +24,7 @@ const About = () => {
                 <li data-aos="flip-left">Nu eva Ecija University of Science and Technology</li>
               </ul>
 
-              <h2 data-aos="flip-left" className='text-xl font-semibold mt-2 ml-5 text-sky-700'>Highschool</h2>
+              {/* <h2 data-aos="flip-left" className='text-xl font-semibold mt-2 ml-5 text-sky-700'>Highschool</h2>
               <ul  className='text-md leading-9 font-semibold list-disc ml-5 
               border border-b-2 border-gray-300
               border-t-0 border-x-0'>
@@ -38,7 +38,7 @@ const About = () => {
               border-t-0 border-x-0'>
                 <li data-aos="flip-left">2000-2006</li>
                 <li data-aos="flip-left">East Bagong Barrio Elementary school</li>
-              </ul>
+              </ul> */}
             </div>
             <Skills />
         </div>
