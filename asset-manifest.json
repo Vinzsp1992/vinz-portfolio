@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6b50ab18.css",
-    "main.js": "/static/js/main.c91a1e7c.js",
+    "main.js": "/static/js/main.b5c9d525.js",
     "static/media/IPAddress-Tracker.png": "/static/media/IPAddress-Tracker.7e0bab29e304e85e93b2.png",
     "static/media/profic_1.png": "/static/media/profic_1.e26d0f33c7511474341d.png",
     "static/media/tailwind.png": "/static/media/tailwind.f0f26047a8933b822dae.png",
@@ -14,10 +14,10 @@
     "static/media/age-calculator.png": "/static/media/age-calculator.2f21880253c1722cd8a3.png",
     "index.html": "/index.html",
     "main.6b50ab18.css.map": "/static/css/main.6b50ab18.css.map",
-    "main.c91a1e7c.js.map": "/static/js/main.c91a1e7c.js.map"
+    "main.b5c9d525.js.map": "/static/js/main.b5c9d525.js.map"
   },
   "entrypoints": [
     "static/css/main.6b50ab18.css",
-    "static/js/main.c91a1e7c.js"
+    "static/js/main.b5c9d525.js"
   ]
 }
