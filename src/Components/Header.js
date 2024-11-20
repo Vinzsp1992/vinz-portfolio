@@ -19,7 +19,7 @@ const Header = () => {
     window.addEventListener('scroll', changeColor);
   return (
     <div className='shadow-xl'>
-        <header className={`flex items-center justify-between  fixed
+        <header className={`p-5 flex items-center justify-between  fixed
         lg:justify-evenly w-[100vw] px-5 text-white h-[50px]
         z-10 bg-${color ? "black" : "none"}`}>
             <Link to='homepage'>

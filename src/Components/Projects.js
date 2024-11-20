@@ -26,9 +26,12 @@ const Projects = () => {
             ></div>
         
             
-            <img src={AgeCalculator} className='w-[290px] h-[200px] transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-105 rounded-xl  duration-300' />
+            <img
+            href="https://vinzsp1992.github.io/age-calculator/" 
+            src={AgeCalculator} className='w-[290px] h-[200px]
+            cursor-pointer transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-105 rounded-xl  duration-300' />
             <h1 className=' text-lg text-gray-600 font-semibold'>Responsive Age Calculator</h1>
-            <a href="https://kamnida1992.github.io/age-calculator/" target="_blank"
+            <a href="https://vinzsp1992.github.io/age-calculator/" target="_blank"
             className='bg-slate-900 text-white px-2 rounded-md w-[130px] py-2 
             hover:bg-slate-700'>View live demo</a>
             
@@ -48,11 +51,13 @@ const Projects = () => {
             ></div>
         
            
-            <img src={RestCountries} className='w-[300px] h-[200px] 
+            <img 
+            href="https://vinzsp1992.github.io/rest-countries-api/"
+             src={RestCountries} className='w-[300px] h-[200px] 
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
               <h1 className=' text-lg text-gray-600 font-semibold'>REST Countries API</h1>
-            <a href="https://kamnida1992.github.io/rest-countries-api/" target="_blank" 
+            <a href="https://vinzsp1992.github.io/rest-countries-api/" target="_blank" 
             className='bg-slate-900 text-white px-2 rounded-md w-[130px] py-2 
             hover:bg-slate-700'>View live demo</a>
             <div className='flex gap-2 font-semibold'>
@@ -72,11 +77,13 @@ const Projects = () => {
             ></div>
         
             
-            <img src={MultiStep} className='w-[290px] h-[200px] 
+            <img
+             href="https://vinzsp1992.github.io/multi-step-form/#/"
+             src={MultiStep} className='w-[290px] h-[200px] 
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
              <h1 className=' text-lg text-gray-600 font-semibold'> Multi Step Form</h1>
-            <a href="https://kamnida1992.github.io/multi-step-form/#/" target="_blank"
+            <a href="https://vinzsp1992.github.io/multi-step-form/#/" target="_blank"
             className='bg-slate-900 text-white px-2 rounded-md w-[130px] py-2 
             hover:bg-slate-700'>View live demo</a>
             <div className='flex gap-2 font-semibold'>
@@ -95,11 +102,13 @@ const Projects = () => {
             to-sky-200 absolute bottom-full right-0 group-hover:-rotate-90 group-hover:h-[300%] duration-500 origin-bottom-right"
             ></div>
         
-            <img src={NewsLetter} className='w-[300px] h-[200px] 
+            <img
+            href="https://vinzsp1992.github.io/news-letter-main/"
+             src={NewsLetter} className='w-[300px] h-[200px] 
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
              <h1 className=' text-lg text-gray-600 font-semibold'>Responsive News Letter</h1>
-             <a href="https://kamnida1992.github.io/news-letter-main/" target="_blank"
+             <a href="https://vinzsp1992.github.io/news-letter-main/" target="_blank"
             className='bg-slate-900 text-white px-2 rounded-md w-[130px] py-2
             hover:bg-slate-700'>View live demo</a>
             <div className='flex gap-2 font-semibold'>
@@ -119,7 +128,9 @@ const Projects = () => {
             ></div>
 
 
-            <img src={Ebank} className='w-[300px] h-[200px] 
+            <img
+            href="https://easybank-react.onrender.com/" 
+            src={Ebank} className='w-[300px] h-[200px] 
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
              <h1 className='text-lg text-gray-600 font-semibold'>Responsive Bank Landing Page</h1>
@@ -145,7 +156,7 @@ const Projects = () => {
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
              <h1 className='text-lg text-gray-600 font-semibold'>IP Address Tracker</h1>
-            <a href="https://kamnida1992.github.io/ip-address-tracker/" target="_blank"
+            <a href="https://vinzsp1992.github.io/ip-address-tracker/" target="_blank"
             className='bg-slate-900 text-white px-2 rounded-md w-[130px]
             hover:bg-slate-700 py-2'>View live demo</a>
             <div className='flex gap-2 font-semibold'>
