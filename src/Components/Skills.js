@@ -47,7 +47,7 @@ const Skills = () => {
             hover:-translate-y-1 hover:scale-105  duration-200
             transition ease-in-out delay-150 cursor-pointer bg-slate-100 rounded-lg
             px-4  shadow-lg'>
-           <a href="#" className='text-yellow-300   hover:shadow-2xl
+           <a href="https://www.w3schools.com/javascript/" className='text-yellow-300   hover:shadow-2xl
            rounded-xl   '>
             <ion-icon name="logo-javascript" size="large"></ion-icon>
             </a>
