@@ -25,7 +25,7 @@ const Skills = () => {
             hover:-translate-y-1 hover:scale-105  duration-200
             transition ease-in-out delay-150 cursor-pointer bg-slate-100 rounded-lg
             px-4  shadow-lg'>
-           <a href="#"  className='text-red-500   hover:shadow-2xl
+           <a href="https://www.w3schools.com/html/"  className='text-red-500   hover:shadow-2xl
            rounded-xl   '>
             <ion-icon name="logo-html5" size="large"></ion-icon>
             </a>
@@ -36,7 +36,7 @@ const Skills = () => {
             hover:-translate-y-1 hover:scale-105  duration-200
             transition ease-in-out delay-150 cursor-pointer bg-slate-100 rounded-lg
             px-6  shadow-lg'>
-           <a href="#"  className='text-blue-500   hover:shadow-2xl
+           <a href="https://www.w3schools.com/css/"  className='text-blue-500   hover:shadow-2xl
            rounded-xl   '>
             <ion-icon name="logo-css3" size="large"></ion-icon>
             </a>
@@ -58,7 +58,7 @@ const Skills = () => {
             hover:-translate-y-1 hover:scale-105  duration-200
             transition ease-in-out delay-150 cursor-pointer bg-slate-100 rounded-lg
             px-6  shadow-lg'>
-           <a href="#" className='text-pink-400   hover:shadow-2xl
+           <a href="https://www.w3schools.com/sass/" className='text-pink-400   hover:shadow-2xl
            rounded-xl   '>
             <ion-icon name="logo-sass" size="large"></ion-icon>
             </a>
@@ -75,7 +75,7 @@ const Skills = () => {
             hover:-translate-y-1 hover:scale-105  duration-200
             transition ease-in-out delay-150 cursor-pointer bg-slate-100 rounded-lg
             px-6  shadow-lg'>
-           <a href="#" className='text-sky-400   hover:shadow-2xl
+           <a href="https://www.w3schools.com/react/" className='text-sky-400   hover:shadow-2xl
            rounded-xl   '>
             <ion-icon name="logo-react" size="large"></ion-icon>
             </a>
@@ -103,7 +103,7 @@ const Skills = () => {
             hover:-translate-y-1 hover:scale-105  duration-200
             transition ease-in-out delay-150 cursor-pointer bg-slate-100 rounded-lg
             px-6  shadow-lg'>
-           <a href="#" className='text-green-400   hover:shadow-2xl
+           <a href="https://www.w3schools.com/rest/" className='text-green-400   hover:shadow-2xl
            rounded-xl   '>
            <img src={RestApi} alt="" />
             </a>
@@ -114,7 +114,7 @@ const Skills = () => {
             hover:-translate-y-1 hover:scale-105  duration-200
             transition ease-in-out delay-150 cursor-pointer bg-slate-100 rounded-lg
             px-6  shadow-lg'>
-           <a href="#" className='text-slate-900   hover:shadow-2xl
+           <a href="https://www.w3schools.com/git/" className='text-slate-900   hover:shadow-2xl
            rounded-xl   '>
             <ion-icon name="logo-github" size="large"></ion-icon>
             </a>
