@@ -91,7 +91,7 @@ const Contacts = () => {
 
             </div>
         </form> 
-          <img src={Contactus}  className='hidden lg:block rounded-lg w-[50%]'/>
+          <img src={Contactus} alt="" className='hidden lg:block rounded-lg w-[50%]'/>
         
     </div>
     </div>

@@ -28,10 +28,10 @@ const Projects = () => {
             
             <img
             href="https://vinzsp1992.github.io/age-calculator/" 
-            src={AgeCalculator} className='w-[290px] h-[200px]
+            src={AgeCalculator} alt="" className='w-[290px] h-[200px]
             cursor-pointer transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-105 rounded-xl  duration-300' />
             <h1 className=' text-lg text-gray-600 font-semibold'>Responsive Age Calculator</h1>
-            <a href="https://vinzsp1992.github.io/age-calculator/" target="_blank"
+            <a href="https://vinzsp1992.github.io/age-calculator/" target="_blank" rel="noopener noreferrer"
             className='bg-slate-900 text-white px-2 rounded-md w-[130px] py-2 
             hover:bg-slate-700'>View live demo</a>
             
@@ -57,7 +57,7 @@ const Projects = () => {
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
               <h1 className=' text-lg text-gray-600 font-semibold'>REST Countries API</h1>
-            <a href="https://vinzsp1992.github.io/rest-countries-api/" target="_blank" 
+            <a href="https://vinzsp1992.github.io/rest-countries-api/" target="_blank" rel="noopener noreferrer"
             className='bg-slate-900 text-white px-2 rounded-md w-[130px] py-2 
             hover:bg-slate-700'>View live demo</a>
             <div className='flex gap-2 font-semibold'>
@@ -84,7 +84,7 @@ const Projects = () => {
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
              <h1 className=' text-lg text-gray-600 font-semibold'> Multi Step Form</h1>
-            <a href="https://vinzsp1992.github.io/multi-step-form/#/" target="_blank"
+            <a href="https://vinzsp1992.github.io/multi-step-form/#/" target="_blank" rel="noopener noreferrer"
             className='bg-slate-900 text-white px-2 rounded-md w-[130px] py-2 
             hover:bg-slate-700'>View live demo</a>
             <div className='flex gap-2 font-semibold'>
@@ -109,7 +109,7 @@ const Projects = () => {
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
              <h1 className=' text-lg text-gray-600 font-semibold'>Responsive News Letter</h1>
-             <a href="https://vinzsp1992.github.io/news-letter-main/" target="_blank"
+             <a href="https://vinzsp1992.github.io/news-letter-main/" target="_blank" rel="noopener noreferrer"
             className='bg-slate-900 text-white px-2 rounded-md w-[130px] py-2
             hover:bg-slate-700'>View live demo</a>
             <div className='flex gap-2 font-semibold'>
@@ -135,7 +135,7 @@ const Projects = () => {
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
              <h1 className='text-lg text-gray-600 font-semibold'>Responsive Bank Landing Page</h1>
-            <a href="https://easybank-react.onrender.com/" target="_blank"
+            <a href="https://easybank-react.onrender.com/" target="_blank" rel="noopener noreferrer"
             className='bg-slate-900 text-white px-2 rounded-md w-[130px] py-2
             hover:bg-slate-700'>View live demo</a>
             <div className='flex gap-2 font-semibold'>
@@ -157,7 +157,7 @@ const Projects = () => {
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
              <h1 className='text-lg text-gray-600 font-semibold'>IP Address Tracker</h1>
-            <a href="https://vinzsp1992.github.io/ip-address-tracker/" target="_blank"
+            <a href="https://vinzsp1992.github.io/ip-address-tracker/" target="_blank" rel="noopener noreferrer"
             className='bg-slate-900 text-white px-2 rounded-md w-[130px]
             hover:bg-slate-700 py-2'>View live demo</a>
             <div className='flex gap-2 font-semibold'>
