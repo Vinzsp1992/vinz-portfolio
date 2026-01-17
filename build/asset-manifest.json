@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.c0b36f64.css",
-    "main.js": "/static/js/main.3de54690.js",
+    "main.js": "/static/js/main.5acf4250.js",
     "static/media/IPAddress-Tracker.png": "/static/media/IPAddress-Tracker.7e0bab29e304e85e93b2.png",
     "static/media/tailwind.png": "/static/media/tailwind.f0f26047a8933b822dae.png",
+    "static/media/new_profile.png": "/static/media/new_profile.24f9b1ad7984d446e336.png",
     "static/media/ebank.png": "/static/media/ebank.4ee35c4c86b397329d52.png",
     "static/media/news-letter.png": "/static/media/news-letter.6b1d319c3b486132cbad.png",
     "static/media/Rest-Countries.png": "/static/media/Rest-Countries.2489061963586b7c0085.png",
-    "static/media/profpic2.png": "/static/media/profpic2.427447929618f6907df0.png",
     "static/media/multi-step.png": "/static/media/multi-step.903cc182f00e72755eb0.png",
     "static/media/php.png": "/static/media/php.4990580e9b615aeebb1f.png",
     "static/media/contactus.jpg": "/static/media/contactus.46d7603077411725edce.jpg",
     "static/media/age-calculator.png": "/static/media/age-calculator.2f21880253c1722cd8a3.png",
     "index.html": "/index.html",
     "main.c0b36f64.css.map": "/static/css/main.c0b36f64.css.map",
-    "main.3de54690.js.map": "/static/js/main.3de54690.js.map"
+    "main.5acf4250.js.map": "/static/js/main.5acf4250.js.map"
   },
   "entrypoints": [
     "static/css/main.c0b36f64.css",
-    "static/js/main.3de54690.js"
+    "static/js/main.5acf4250.js"
   ]
 }
