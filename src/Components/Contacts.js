@@ -27,7 +27,7 @@ const Contacts = () => {
   const submitForm = (e) => {
     e.preventDefault();
     const validRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
-    if(validRegex.test(email) && message != "" && name != "" && email != "" ) {
+    if(validRegex.test(email) && message !== "" && name !== "" && email !== "" ) {
         emailjs
       .sendForm('service_u5bbi1i', 'template_ko87lcg', form.current, {
         publicKey: 'eo8lJHP5NJJai_Sa1',

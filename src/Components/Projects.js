@@ -52,7 +52,7 @@ const Projects = () => {
         
            
             <img 
-            href="https://vinzsp1992.github.io/rest-countries-api/"
+            href="https://vinzsp1992.github.io/rest-countries-api/" alt=""
              src={RestCountries} className='w-[300px] h-[200px] 
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
@@ -79,7 +79,8 @@ const Projects = () => {
             
             <img
              href="https://vinzsp1992.github.io/multi-step-form/#/"
-             src={MultiStep} className='w-[290px] h-[200px] 
+             src={MultiStep} alt=""
+              className='w-[290px] h-[200px] 
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
              <h1 className=' text-lg text-gray-600 font-semibold'> Multi Step Form</h1>
@@ -104,7 +105,7 @@ const Projects = () => {
         
             <img
             href="https://vinzsp1992.github.io/news-letter-main/"
-             src={NewsLetter} className='w-[300px] h-[200px] 
+             src={NewsLetter} alt="" className='w-[300px] h-[200px] 
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
              <h1 className=' text-lg text-gray-600 font-semibold'>Responsive News Letter</h1>
@@ -130,7 +131,7 @@ const Projects = () => {
 
             <img
             href="https://easybank-react.onrender.com/" 
-            src={Ebank} className='w-[300px] h-[200px] 
+            src={Ebank} alt="" className='w-[300px] h-[200px] 
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
              <h1 className='text-lg text-gray-600 font-semibold'>Responsive Bank Landing Page</h1>
@@ -152,7 +153,7 @@ const Projects = () => {
             to-sky-200 absolute bottom-full right-0 group-hover:-rotate-90 group-hover:h-[300%] duration-500 origin-bottom-right"
             ></div>
             
-            <img src={IPAddressTracker} className='w-[300px] h-[200px] 
+            <img src={IPAddressTracker} alt="" className='w-[300px] h-[200px] 
             transition ease-in-out delay-150 rounded-xl bg-blue-500 hover:-translate-y-1
              hover:scale-105  duration-300' />
              <h1 className='text-lg text-gray-600 font-semibold'>IP Address Tracker</h1>
