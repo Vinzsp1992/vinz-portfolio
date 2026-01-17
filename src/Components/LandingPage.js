@@ -1,5 +1,5 @@
 import {useState, useEffect} from 'react'
-import ProfilePic from '../assets/profpic2.png';
+import ProfilePic from '../assets/new_profile.png';
 
 const LandingPage = () => {
   
