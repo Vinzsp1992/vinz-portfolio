@@ -20,7 +20,7 @@ const Header = () => {
   return (
     <div className='shadow-xl'>
         <header className={`p-5 flex items-center justify-between  fixed
-        lg:justify-evenly w-[100vw] px-5 text-white h-[50px]
+        lg:justify-evenly w-[100vw] px-5 text-slate-300 h-[50px]
         z-10 bg-${color ? "black" : "none"}`}>
             <Link to='homepage'>
             <h1 className='cursor-pointer
@@ -36,7 +36,7 @@ const Header = () => {
              lg:bg-${color ? "black" : "none"}  lg:bg-opacity-0 w-[100%] md:w-auto
             text-white leading-10 text-center p-5 font-semibold
             absolute mt-20 md:flex md:flex-row md:items-center
-             md:text-white md:static lg:h-full md:h-full md:mt-0
+             md:text-slate-500 md:font-bold md:static lg:h-full md:h-full md:mt-0
             md:gap-10 lg:gap-10 lg:flex -ml-5 transition-all duration-300 ease-in
              ${open ? 'top-[-31px]' : 'top-[-500px]'} text-sm  cursor-pointer  `}>
                 <li className='nav-item'>
