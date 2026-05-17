@@ -7,9 +7,9 @@ import Ebank from '../assets/ebank.png';
 import IPAddressTracker from '../assets/IPAddress-Tracker.png'
 const Projects = () => {
   return (
-    <div id="projects" className='bg-gradient-to-r from-stone-300 to-slate-200 w-[100vw]'>
+    <div id="projects" className='bg-gradient-to-r from-slate-950 to-sky-950 w-[100vw]'>
         
-        <h1 data-aos="flip-right" className='lg:text-left text-center text-gray-700
+        <h1 data-aos="flip-right" className='lg:text-left text-center text-gray-200
         border-x-0 lg:mx-40 text-3xl font-bold pt-10 pb-2'>
             <ion-icon name="book-outline" size="large"></ion-icon> PROJECT<span className='text-3xl
             text-sky-400'>S</span></h1>
@@ -123,7 +123,7 @@ const Projects = () => {
         <div data-aos="flip-right" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
         shadow-xl div h-[auto] w-[auto] m-auto  relative group z-0 overflow-hidden'>
         
-            {/* <div
+            <div
             className="z-[-2] h-full w-[200%] rounded-[1em] bg-gradient-to-br from-red-600 via-yellow-200
             to-sky-200 absolute bottom-full right-0 group-hover:-rotate-90 group-hover:h-[300%] duration-500 origin-bottom-right"
             ></div>
@@ -142,7 +142,7 @@ const Projects = () => {
             <h1 className='text-blue-400'>REACT</h1>
             <h1 className="text-blue-500">TAILWIND</h1>
             
-            </div> */}
+            </div>
         </div>
         <div data-aos="flip-right" className='p-2 flex justify-center flex-col bg-slate-200 gap-5 rounded-lg mx-5 lg:mx-0 
         shadow-xl div h-[auto] w-[auto] m-auto  relative group z-0 overflow-hidden'>

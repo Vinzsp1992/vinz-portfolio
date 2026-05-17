@@ -53,12 +53,12 @@ const Contacts = () => {
 
   return (
     <div id="contact" className='pb-10 lg:h-[110vh] h-[100%]
-    bg-gradient-to-r from-stone-300 to-slate-200 bg-no-repeat bg-cover pt-10'>
-        <h1 data-aos="fade-down" className='text-center lg:text-left lg:ml-16 text-3xl font-bold text-gray-700 '>
+    bg-gradient-to-r from-slate-950 to-sky-950 bg-no-repeat bg-cover pt-10'>
+        <h1 data-aos="fade-down" className='text-center lg:text-left lg:ml-16 text-3xl font-bold text-slate-200 '>
         <ion-icon name="mail-outline"></ion-icon>CONTACT<span className='text-sky-400'> US</span></h1>
         
         <Socials />
-        <h1 className='lg:ml-16 text-gray-700 font-semibold text-2xl text-center
+        <h1 className='lg:ml-16 text-slate-200 font-semibold text-2xl text-center
         lg:text-left '>Get in touch via email</h1>
         
         <div className='bg-slate-200 bg-opacity-10 m-5 p-5 pb-10 flex justify-evenly
@@ -92,8 +92,6 @@ const Contacts = () => {
             </div>
         </form> 
           <img src={Contactus} alt="" className='hidden lg:block rounded-lg w-[50%]'/>
-
-          
         
     </div>
     </div>
